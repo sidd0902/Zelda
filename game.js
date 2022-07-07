@@ -6,7 +6,7 @@ kaboom({
     clearColor: [0,0,0,1]
   })
   
-  const MOVE_SPEED = 150
+  const MOVE_SPEED = 180
   
   loadSprite('left_pov', 'left_view.png')
   loadSprite('right_pov', 'right_view.png')
